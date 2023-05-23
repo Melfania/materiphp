@@ -1,7 +1,7 @@
 # materiphp
 latihan1
+![1](https://github.com/Melfania/materiphp/assets/133623449/90356113-90b1-479f-8921-1a2bad49023a) 
 
-![1](https://github.com/Melfania/materiphp/assets/133623449/90356113-90b1-479f-8921-1a2bad49023a)
 latihan2
 ![2](https://github.com/Melfania/materiphp/assets/133623449/8d762a2d-81d0-413b-952b-8d598e8b5dfa)
 
